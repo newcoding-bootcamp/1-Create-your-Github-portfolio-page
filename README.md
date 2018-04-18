@@ -1,4 +1,4 @@
-Workshop: **Create your Github portfolio page using a web editor** Trevor Dorsey / Ian Nicholson
+Workshop: **Create your Github portfolio page using a text editor** Trevor Dorsey / Ian Nicholson
 
 Assignment invite: https://classroom.github.com/a/IewGW3Vg
 
