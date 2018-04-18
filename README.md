@@ -1,11 +1,6 @@
-Workshop: Create your Github portfolio page using a web editor
+Workshop: **Create your Github portfolio page using a web editor** Trevor Dorsey / Ian Nicholson
 
-Trevor Dorsey / Ian Nicholson
-  
-Intermission Topic 1: What is NewCoding?
+https://classroom.github.com/a/IewGW3Vg
 
-Dave Gross
-
-Intermission Topic 2: Career Paths
-
-Steve Boyle
+Intermission Topic 1: **What is NewCoding?** Dave Gross
+Intermission Topic 2: **Career Paths** Steve Boyle
